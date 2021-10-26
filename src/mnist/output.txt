@@ -1,44 +1,44 @@
 In [1]: %run mnist
 
 Epoch 0:    Loss    Acc.
-Train:      0.401   0.885
-Val:        0.201   0.943
+Train:      0.404   0.878
+Val:        0.196   0.940
 
 Epoch 1:    Loss    Acc.
-Train:      0.144   0.957
-Val:        0.131   0.964
+Train:      0.140   0.957
+Val:        0.136   0.959
 
 Epoch 2:    Loss    Acc.
-Train:      0.096   0.971
-Val:        0.112   0.966
+Train:      0.095   0.971
+Val:        0.116   0.965
 
 Epoch 3:    Loss    Acc.
-Train:      0.072   0.978
-Val:        0.108   0.968
+Train:      0.071   0.978
+Val:        0.095   0.970
 
 Epoch 4:    Loss    Acc.
-Train:      0.055   0.983
-Val:        0.088   0.974
+Train:      0.054   0.984
+Val:        0.091   0.974
 
 Epoch 5:    Loss    Acc.
-Train:      0.040   0.988
-Val:        0.097   0.975
+Train:      0.041   0.987
+Val:        0.091   0.975
 
 Epoch 6:    Loss    Acc.
-Train:      0.032   0.990
-Val:        0.084   0.975
+Train:      0.032   0.989
+Val:        0.083   0.977
 
 Epoch 7:    Loss    Acc.
-Train:      0.027   0.992
-Val:        0.102   0.974
+Train:      0.025   0.992
+Val:        0.094   0.973
 
 Epoch 8:    Loss    Acc.
-Train:      0.021   0.993
-Val:        0.108   0.970
+Train:      0.022   0.993
+Val:        0.094   0.976
 
 Epoch 9:    Loss    Acc.
-Train:      0.019   0.994
-Val:        0.090   0.979
+Train:      0.020   0.994
+Val:        0.086   0.979
 
             Loss    Acc.
-Test:       0.081   0.979
+Test:       0.078   0.980

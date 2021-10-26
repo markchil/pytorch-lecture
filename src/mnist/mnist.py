@@ -40,6 +40,8 @@ def get_device():
 
 
 if __name__ == '__main__':
+    torch.manual_seed(20211026)
+
     device = get_device()
 
     train_loader, val_loader, test_loader = get_data(
