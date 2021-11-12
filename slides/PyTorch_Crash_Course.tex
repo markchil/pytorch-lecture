@@ -308,8 +308,8 @@
 	\lstinputlisting[firstline=3]{../src/autograd.py}
 	
 	\begin{itemize}
-		\item Symbolically, you would have to find $dz/dx=2x+1$, $dz/dy=1$: \emph{but PyTorch does it automatically for you}
-		\item The call to \lstinline!z.backward()! stores $dz/dx$ into \lstinline!x.grad! and $dz/dy$ into \lstinline!y.grad!
+		\item Symbolically, you would have to find $\partial z/\partial x=2x+1$, $\partial z/\partial y=1$: \emph{but PyTorch does it automatically for you}
+		\item The call to \lstinline!z.backward()! stores $\partial z/\partial x$ into \lstinline!x.grad! and $\partial z/\partial y$ into \lstinline!y.grad!
 	\end{itemize}
 \end{frame}
 
